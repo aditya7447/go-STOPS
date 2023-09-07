@@ -2,4 +2,4 @@
 >
 Hosted Link
 >
-https://team-gostops.github.io/Team-goSTOPS/
+https://aditya7447.github.io/go-STOPS/
